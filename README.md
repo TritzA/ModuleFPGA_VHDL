@@ -4,7 +4,9 @@ Modulo 3 ou comparateur grâce un multiplexeur, le tout connecté à un registre
 
 Laboratoire : 4/5
 
-Cours : INF1500 Logique des systèmes numériques
+Cours : [INF1500 Logique des systèmes numériques](https://www.polymtl.ca/programmes/cours/logique-des-systemes-numeriques)
+
+École : [Polytechnique Montréal](https://www.polymtl.ca)
 
 Partenaire : James Brutus
 
