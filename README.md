@@ -1,4 +1,4 @@
-# ModuleFPGA_VHDL
+# Module-FPGA-VHDL
 
 Modulo 3 ou comparateur grâce un multiplexeur, le tout connecté à un registre.
 
